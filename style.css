@@ -7,14 +7,12 @@ font-family: 'Bebas Neue', sans-serif
 }
 
 html,body{
-    width:100%;
-    height:100%;
     background:black;
     color: white;
 }    
 .container{
     width: 90%;
-    height:100vh;
+    height:max-content;
     margin:0 auto;
 }
 h1{
@@ -27,14 +25,14 @@ h1{
 }
 .room{
     margin:0 auto;
-    height: 100vh;
+    height: max-content;
     width: 80vw;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 .room img{
-    height: 60%;
+    height: 60vh;
 }
 
 .switch{
