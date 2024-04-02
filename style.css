@@ -9,6 +9,7 @@ font-family: 'Bebas Neue', sans-serif
 html,body{
     background:black;
     color: white;
+    height:max-content;
 }    
 .container{
     width: 90%;
