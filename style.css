@@ -14,9 +14,8 @@ html,body{
 
   
 .room{
-    margin:0 auto;
-    height: 80vh;
-    width: 80vw;
+    height: max-content;
+    width: 100%;
     display: flex;
     align-items: flex-end;
     justify-content: center;
