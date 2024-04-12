@@ -1,7 +1,7 @@
 The image below shows a simple Web Project made in HTML, CSS and JS. 
 Click on the "ON" button to lighten the dark room.
-OFF State:
-![image](https://github.com/FaiqaAbbas/BulbInTheDark/assets/134505855/62e9d275-42b3-4e23-bf87-ea96a6d2c51e)
+<b><h3>OFF State:</h3></b>
+![image](https://github.com/FaiqaAbbas/BulbInTheDark/assets/134505855/0eea4958-77be-4019-a614-ab1da1502ce9)
+<b><h3>ON State:</h3></b>
+![image](https://github.com/FaiqaAbbas/BulbInTheDark/assets/134505855/c9649a94-6e02-48dd-84cc-8c74f7cae097)
 
-ON State:
-![image](https://github.com/FaiqaAbbas/BulbInTheDark/assets/134505855/b7acbc05-e070-4978-a7b6-e1d7e231e3f9)
